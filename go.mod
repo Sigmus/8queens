@@ -1,4 +1,4 @@
-module eightqueens
+module github.com/Sigmus/8queens
 
 go 1.24.0
 

@@ -8,7 +8,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"eightqueens/solver"
+	"github.com/Sigmus/8queens/solver"
 )
 
 const (

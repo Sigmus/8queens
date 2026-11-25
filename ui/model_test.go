@@ -9,7 +9,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/muesli/termenv"
 
-	"eightqueens/solver"
+	"github.com/Sigmus/8queens/solver"
 )
 
 func TestMain(m *testing.M) {

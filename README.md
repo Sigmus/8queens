@@ -7,6 +7,12 @@ A terminal animation of the eight queens puzzle. Backtracking places one queen p
 ## Run
 
 ```bash
+go install github.com/Sigmus/8queens@latest
+```
+
+Or from a checkout of this repo:
+
+```bash
 go run .
 go run . -mode solutions
 go run . -mode step -speed 3

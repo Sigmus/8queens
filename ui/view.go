@@ -6,7 +6,7 @@ import (
 
 	"github.com/charmbracelet/lipgloss"
 
-	"eightqueens/solver"
+	"github.com/Sigmus/8queens/solver"
 )
 
 const (
